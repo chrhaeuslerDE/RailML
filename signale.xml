@@ -1,0 +1,196 @@
+<ocsElements>
+          <signals>
+            <signal id="sig263011" dir="up" pos="246" type="main" absPos="91263">
+              <geoCoord coord="50.350264 7.588911" epsgCode="urn:ogc:def:crs:EPSG::4326"/>
+            </signal>
+            <signal id="sig263012" dir="up" pos="683" type="distant" absPos="91700">
+              <geoCoord coord="50.346503 7.587703" epsgCode="urn:ogc:def:crs:EPSG::4326"/>
+            </signal>
+            <signal id="sig263013" dir="up" pos="1673" type="main" absPos="92690">
+              <geoCoord coord="50.338194 7.584510" epsgCode="urn:ogc:def:crs:EPSG::4326"/>
+            </signal>
+            <signal id="sig263014" dir="up" pos="2618" type="main" absPos="93635">
+              <geoCoord coord="50.329698 7.584158" epsgCode="urn:ogc:def:crs:EPSG::4326"/>
+            </signal>
+            <signal id="sig263015" dir="up" pos="3799" type="main" absPos="94816">
+              <geoCoord coord="50.319213 7.587196" epsgCode="urn:ogc:def:crs:EPSG::4326"/>
+            </signal>
+            <signal id="sig263016" dir="up" pos="4098" type="distant" absPos="95115">
+              <geoCoord coord="50.316545 7.587808" epsgCode="urn:ogc:def:crs:EPSG::4326"/>
+            </signal>
+            <signal id="sig263017" dir="up" pos="5073" type="main" absPos="96090">
+              <geoCoord coord="50.308060 7.591086" epsgCode="urn:ogc:def:crs:EPSG::4326"/>
+            </signal>
+            <signal id="sig263018" dir="up" pos="5666" type="distant" absPos="96683">
+              <geoCoord coord="50.303162 7.594324" epsgCode="urn:ogc:def:crs:EPSG::4326"/>
+            </signal>
+            <signal id="sig263019" dir="up" pos="6616" type="main" absPos="97633">
+              <geoCoord coord="50.295492 7.600197" epsgCode="urn:ogc:def:crs:EPSG::4326"/>
+            </signal>
+            <signal id="sig2630110" dir="up" pos="7260" type="distant" absPos="98277">
+              <geoCoord coord="50.290513 7.604730" epsgCode="urn:ogc:def:crs:EPSG::4326"/>
+            </signal>
+            <signal id="sig2630111" dir="up" pos="8267" type="main" absPos="99284">
+              <geoCoord coord="50.284799 7.615429" epsgCode="urn:ogc:def:crs:EPSG::4326"/>
+            </signal>
+            <signal id="sig2630112" dir="up" pos="9577" type="main" absPos="100594">
+              <geoCoord coord="50.276712 7.628426" epsgCode="urn:ogc:def:crs:EPSG::4326"/>
+            </signal>
+            <signal id="sig2630113" dir="up" pos="10874" type="main" absPos="101891">
+              <geoCoord coord="50.267818 7.639489" epsgCode="urn:ogc:def:crs:EPSG::4326"/>
+            </signal>
+            <signal id="sig2630114" dir="up" pos="11421" type="distant" absPos="102438">
+              <geoCoord coord="50.263944 7.644240" epsgCode="urn:ogc:def:crs:EPSG::4326"/>
+            </signal>
+            <signal id="sig2630115" dir="up" pos="12423" type="main" absPos="103440">
+              <geoCoord coord="50.255236 7.645405" epsgCode="urn:ogc:def:crs:EPSG::4326"/>
+            </signal>
+            <signal id="sig2630116" dir="up" pos="12890" type="distant" absPos="103907">
+              <geoCoord coord="50.251681 7.641897" epsgCode="urn:ogc:def:crs:EPSG::4326"/>
+            </signal>
+            <signal id="sig2630117" dir="up" pos="14021" type="main" absPos="105038">
+              <geoCoord coord="50.248761 7.627312" epsgCode="urn:ogc:def:crs:EPSG::4326"/>
+            </signal>
+            <signal id="sig2630118" dir="up" pos="14668" type="distant" absPos="105685">
+              <geoCoord coord="50.250027 7.618390" epsgCode="urn:ogc:def:crs:EPSG::4326"/>
+            </signal>
+            <signal id="sig2630119" dir="up" pos="15651" type="main" absPos="106668">
+              <geoCoord coord="50.251536 7.604719" epsgCode="urn:ogc:def:crs:EPSG::4326"/>
+            </signal>
+            <signal id="sig2630120" dir="up" pos="16166" type="distant" absPos="107183">
+              <geoCoord coord="50.251998 7.597497" epsgCode="urn:ogc:def:crs:EPSG::4326"/>
+            </signal>
+            <signal id="sig2630121" dir="up" pos="17158" type="main" absPos="108175">
+              <geoCoord coord="50.248944 7.584694" epsgCode="urn:ogc:def:crs:EPSG::4326"/>
+            </signal>
+            <signal id="sig2630122" dir="up" pos="17659" type="distant" absPos="108676">
+              <geoCoord coord="50.245879 7.579686" epsgCode="urn:ogc:def:crs:EPSG::4326"/>
+            </signal>
+            <signal id="sig2630123" dir="up" pos="18643" type="main" absPos="109660">
+              <geoCoord coord="50.237850 7.576116" epsgCode="urn:ogc:def:crs:EPSG::4326"/>
+            </signal>
+            <signal id="sig2630124" dir="up" pos="19928" type="main" absPos="110945">
+              <geoCoord coord="50.231002 7.589029" epsgCode="urn:ogc:def:crs:EPSG::4326"/>
+            </signal>
+            <signal id="sig2630125" dir="up" pos="20385" type="distant" absPos="111402">
+              <geoCoord coord="50.230255 7.595419" epsgCode="urn:ogc:def:crs:EPSG::4326"/>
+            </signal>
+            <signal id="sig2630126" dir="up" pos="21383" type="main" absPos="112400">
+              <geoCoord coord="50.227589 7.608720" epsgCode="urn:ogc:def:crs:EPSG::4326"/>
+            </signal>
+            <signal id="sig2630127" dir="up" pos="22162" type="distant" absPos="113179">
+              <geoCoord coord="50.222143 7.614951" epsgCode="urn:ogc:def:crs:EPSG::4326"/>
+            </signal>
+            <signal id="sig2630128" dir="up" pos="23115" type="main" absPos="114132">
+              <geoCoord coord="50.214292 7.619514" epsgCode="urn:ogc:def:crs:EPSG::4326"/>
+            </signal>
+            <signal id="sig2630129" dir="up" pos="23826" type="distant" absPos="114843">
+              <geoCoord coord="50.209954 7.626510" epsgCode="urn:ogc:def:crs:EPSG::4326"/>
+            </signal>
+            <signal id="sig2630130" dir="up" pos="24849" type="main" absPos="115866">
+              <geoCoord coord="50.204191 7.637093" epsgCode="urn:ogc:def:crs:EPSG::4326"/>
+            </signal>
+            <signal id="sig2630131" dir="up" pos="26091" type="main" absPos="117108">
+              <geoCoord coord="50.194042 7.644020" epsgCode="urn:ogc:def:crs:EPSG::4326"/>
+            </signal>
+            <signal id="sig2630132" dir="up" pos="26537" type="distant" absPos="117554">
+              <geoCoord coord="50.190021 7.644562" epsgCode="urn:ogc:def:crs:EPSG::4326"/>
+            </signal>
+            <signal id="sig2630133" dir="up" pos="27540" type="main" absPos="118557">
+              <geoCoord coord="50.181294 7.641432" epsgCode="urn:ogc:def:crs:EPSG::4326"/>
+            </signal>
+            <signal id="sig2630134" dir="up" pos="28961" type="distant" absPos="119978">
+              <geoCoord coord="50.173221 7.655532" epsgCode="urn:ogc:def:crs:EPSG::4326"/>
+            </signal>
+            <signal id="sig2630135" dir="up" pos="31304" type="main" absPos="122321">
+              <geoCoord coord="50.168155 7.686306" epsgCode="urn:ogc:def:crs:EPSG::4326"/>
+            </signal>
+            <signal id="sig2630136" dir="up" pos="32190" type="distant" absPos="123207">
+              <geoCoord coord="50.164983 7.697864" epsgCode="urn:ogc:def:crs:EPSG::4326"/>
+            </signal>
+            <signal id="sig2630137" dir="up" pos="33382" type="main" absPos="124399">
+              <geoCoord coord="50.155640 7.705571" epsgCode="urn:ogc:def:crs:EPSG::4326"/>
+            </signal>
+            <signal id="sig2630138" dir="up" pos="34520" type="main" absPos="125537">
+              <geoCoord coord="50.149506 7.717583" epsgCode="urn:ogc:def:crs:EPSG::4326"/>
+            </signal>
+            <signal id="sig2630139" dir="up" pos="36087" type="main" absPos="127104">
+              <geoCoord coord="50.137517 7.725150" epsgCode="urn:ogc:def:crs:EPSG::4326"/>
+            </signal>
+            <signal id="sig2630140" dir="up" pos="37159" type="main" absPos="128176">
+              <geoCoord coord="50.132112 7.736130" epsgCode="urn:ogc:def:crs:EPSG::4326"/>
+            </signal>
+            <signal id="sig2630141" dir="up" pos="38397" type="main" absPos="129414">
+              <geoCoord coord="50.122792 7.728604" epsgCode="urn:ogc:def:crs:EPSG::4326"/>
+            </signal>
+            <signal id="sig2630142" dir="up" pos="39074" type="distant" absPos="130091">
+              <geoCoord coord="50.119133 7.721116" epsgCode="urn:ogc:def:crs:EPSG::4326"/>
+            </signal>
+            <signal id="sig2630143" dir="up" pos="40465" type="main" absPos="131482">
+              <geoCoord coord="50.108727 7.726338" epsgCode="urn:ogc:def:crs:EPSG::4326"/>
+            </signal>
+            <signal id="sig2630144" dir="up" pos="41691" type="main" absPos="132708">
+              <geoCoord coord="50.100267 7.737469" epsgCode="urn:ogc:def:crs:EPSG::4326"/>
+            </signal>
+            <signal id="sig2630145" dir="up" pos="42362" type="distant" absPos="133379">
+              <geoCoord coord="50.095653 7.743672" epsgCode="urn:ogc:def:crs:EPSG::4326"/>
+            </signal>
+            <signal id="sig2630146" dir="up" pos="44092" type="distant" absPos="135109">
+              <geoCoord coord="50.084210 7.760087" epsgCode="urn:ogc:def:crs:EPSG::4326"/>
+            </signal>
+            <signal id="sig2630147" dir="up" pos="45149" type="main" absPos="136166">
+              <geoCoord coord="50.076713 7.769083" epsgCode="urn:ogc:def:crs:EPSG::4326"/>
+            </signal>
+            <signal id="sig2630148" dir="up" pos="45831" type="distant" absPos="136848">
+              <geoCoord coord="50.070743 7.770401" epsgCode="urn:ogc:def:crs:EPSG::4326"/>
+            </signal>
+            <signal id="sig2630149" dir="up" pos="46832" type="main" absPos="137849">
+              <geoCoord coord="50.061666 7.769153" epsgCode="urn:ogc:def:crs:EPSG::4326"/>
+            </signal>
+            <signal id="sig2630150" dir="up" pos="48265" type="main" absPos="139282">
+              <geoCoord coord="50.050116 7.775716" epsgCode="urn:ogc:def:crs:EPSG::4326"/>
+            </signal>
+            <signal id="sig2630151" dir="up" pos="48819" type="distant" absPos="139836">
+              <geoCoord coord="50.046739 7.781274" epsgCode="urn:ogc:def:crs:EPSG::4326"/>
+            </signal>
+            <signal id="sig2630152" dir="up" pos="49814" type="main" absPos="140831">
+              <geoCoord coord="50.041440 7.792395" epsgCode="urn:ogc:def:crs:EPSG::4326"/>
+            </signal>
+            <signal id="sig2630153" dir="up" pos="50999" type="main" absPos="142016">
+              <geoCoord coord="50.035601 7.806229" epsgCode="urn:ogc:def:crs:EPSG::4326"/>
+            </signal>
+            <signal id="sig2630154" dir="up" pos="51819" type="distant" absPos="142836">
+              <geoCoord coord="50.030030 7.813582" epsgCode="urn:ogc:def:crs:EPSG::4326"/>
+            </signal>
+            <signal id="sig2630155" dir="up" pos="52978" type="main" absPos="143995">
+              <geoCoord coord="50.022926 7.824766" epsgCode="urn:ogc:def:crs:EPSG::4326"/>
+            </signal>
+            <signal id="sig2630156" dir="up" pos="53872" type="distant" absPos="144889">
+              <geoCoord coord="50.017946 7.834521" epsgCode="urn:ogc:def:crs:EPSG::4326"/>
+            </signal>
+            <signal id="sig2630157" dir="up" pos="54850" type="main" absPos="145867">
+              <geoCoord coord="50.013637 7.846475" epsgCode="urn:ogc:def:crs:EPSG::4326"/>
+            </signal>
+            <signal id="sig2630158" dir="up" pos="54852" type="main" absPos="145869">
+              <geoCoord coord="50.013630 7.846495" epsgCode="urn:ogc:def:crs:EPSG::4326"/>
+            </signal>
+            <signal id="sig2630159" dir="up" pos="55728" type="distant" absPos="146745">
+              <geoCoord coord="50.007584 7.853529" epsgCode="urn:ogc:def:crs:EPSG::4326"/>
+            </signal>
+            <signal id="sig2630160" dir="up" pos="56930" type="main" absPos="147947">
+              <geoCoord coord="49.997363 7.857515" epsgCode="urn:ogc:def:crs:EPSG::4326"/>
+            </signal>
+            <signal id="sig2630161" dir="up" pos="57830" type="distant" absPos="148847">
+              <geoCoord coord="49.989433 7.859765" epsgCode="urn:ogc:def:crs:EPSG::4326"/>
+            </signal>
+            <signal id="sig2630162" dir="up" pos="58829" type="main" absPos="149846">
+              <geoCoord coord="49.980517 7.861714" epsgCode="urn:ogc:def:crs:EPSG::4326"/>
+            </signal>
+            <signal id="sig2630163" dir="up" pos="60062" type="main" absPos="151079">
+              <geoCoord coord="49.972154 7.872145" epsgCode="urn:ogc:def:crs:EPSG::4326"/>
+            </signal>
+            <signal id="sig2630164" dir="up" pos="61031" type="main" absPos="152048">
+              <geoCoord coord="49.968765 7.884538" epsgCode="urn:ogc:def:crs:EPSG::4326"/>
+            </signal>
+          </signals>
+        </ocsElements>
